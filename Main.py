@@ -1,7 +1,7 @@
 # Austin H Kim
 # CECS 328
 # Snake Witches
-# I like apples
+# I like oranges
 
 from fractions import Fraction
 
