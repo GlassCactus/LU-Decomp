@@ -1,5 +1,3 @@
-# Austin H Kim
-# CECS 328
 # Snake Witches
 # I like oranges
 
